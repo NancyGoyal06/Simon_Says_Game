@@ -3,6 +3,13 @@
 
 A modern and interactive version of the classic **Simon Says** memory game, built using **HTML**, **CSS**, and **JavaScript**.
 
+[![HTML](https://img.shields.io/badge/HTML-28.8%25-orange)](#)
+
+[![CSS](https://img.shields.io/badge/CSS-35.1%25-blue)](#)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-36.1%25-yellow)](#)
+
+
 
 ---
 
@@ -81,7 +88,7 @@ Open **index.html** in your browser:
 
 ## ⭐ Contributions
 
-Want to add features like high score, difficulty levels, sound effects, or dark mode? Fork the repository and send in a PR!
+Want to add features like high score, difficulty levels, sound effects, or dark mode. Fork the repository and send in a PR!
 All contributions are welcome!
 
 ---
